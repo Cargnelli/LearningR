@@ -1,7 +1,5 @@
 Cecilie Cargnelli - Diabetes
-asdf
 
-dfghn
 # Description of R/ folder and .R files
 
 This folder contains custom functions or R scripts used for this project's
